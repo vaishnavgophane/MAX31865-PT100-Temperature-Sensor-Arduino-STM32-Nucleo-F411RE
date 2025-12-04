@@ -159,7 +159,10 @@ RTD=8208 R=107.5 Ω T= 19.24 °C
 ## 📄 Files in This Folder
 
 MAX31865.c → MAX31865 driver
+<br>
 MAX31865.h → Driver header
+<br>
 main.c → Main application
+<br>
 
 
