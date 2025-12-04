@@ -24,7 +24,7 @@ This folder contains the STM32 implementation of the **MAX31865 RTD-to-Digital C
 | SCLK     | PA5 (SPI1_SCK)   |
 | SDI/MOSI | PA7 (SPI1_MOSI)  |
 | SDO/MISO | PA6 (SPI1_MISO)  |
-| CS       | PA4              |
+| CS       | PA4  (SPI1_CS)   |
 
 ### UART2 Debug  
 | Function | Pin |
