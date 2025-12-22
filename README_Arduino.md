@@ -57,7 +57,6 @@ This code performs:
 RTD Value : 11234
 Resistance : 110.52 Ohms
 Temperature : 28.13 °C
-Fault : No Fault
 
 ---
 
